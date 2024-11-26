@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5mFLoukUzeu_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Enzyme Revision</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Enzyme_Revision_ORG">
+    <organization identifier="Enzyme_Revision_ORG">
+      <title>Enzyme Revision</title>
+      <item identifier="Infectious_DiseaseMalaria_SCO" isvisible="true" identifierref="__5mFLoukUzeu_course_id_RES">
+        <title>Enzyme Revision</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5mFLoukUzeu_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6UqQ7nXUlW7_X.png" />
+      <file href="mobile/6BRehgE090U.png" />
+      <file href="mobile/6CsnVIGNSWd.png" />
+      <file href="mobile/5jmTijBoFqU.png" />
+      <file href="mobile/5ffe4sgEtEX_EEEEEE.png" />
+      <file href="story_content/WebObjects/6pxfIJLRMgE/index.html" />
+      <file href="mobile/6pxfIJLRMgE5nUlYCpCvTc{Width=700, Height=520}Light.png" />
+      <file href="mobile/6TIrN9blUE4.png" />
+      <file href="mobile/6TIrN9blUE4_P_0_35_449_680.png" />
+      <file href="mobile/6TIrN9blUE4_P_552_140_411_623.png" />
+      <file href="mobile/6TIrN9blUE4_P_1096_210_440_553.png" />
+      <file href="mobile/6TIrN9blUE4_P_1634_25_413_678.png" />
+      <file href="mobile/6Z5wUBheHwf_P_1179_131_254_366.png" />
+      <file href="mobile/6Z5wUBheHwf_P_816_131_260_366.png" />
+      <file href="mobile/6Z5wUBheHwf_P_481_131_245_366.png" />
+      <file href="mobile/6Z5wUBheHwf_P_139_131_247_366.png" />
+      <file href="story_content/WebObjects/6aaGzGwe2T1/index.html" />
+      <file href="mobile/6aaGzGwe2T15ZnZvdxvlYO{Width=700, Height=520}Light.png" />
+      <file href="mobile/6NYeHEzpbeo.png" />
+      <file href="mobile/6MfzXQ3aApm.png" />
+      <file href="mobile/5ty0WDdqd9q.png" />
+      <file href="mobile/69vKroeUq7u.png" />
+      <file href="mobile/5m23rdqWhQR.png" />
+      <file href="mobile/644p2DyRihz.png" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5bFzX7hcSWX.js" />
+      <file href="html5/data/js/5d9kGXsDhEO.js" />
+      <file href="html5/data/js/5h7TGVbkNUQ.js" />
+      <file href="html5/data/js/5i2CBHgDVa2.js" />
+      <file href="html5/data/js/5jgKCGME0BT.js" />
+      <file href="html5/data/js/5lMOD1Bd9kU.js" />
+      <file href="html5/data/js/5m2FE1VPjlG.js" />
+      <file href="html5/data/js/5mUrXQ68QXE.js" />
+      <file href="html5/data/js/5n4wwzEHUWQ.js" />
+      <file href="html5/data/js/5nifF2n63Lo.js" />
+      <file href="html5/data/js/5nxTnjdFUVR.js" />
+      <file href="html5/data/js/5sBP9ygO46r.js" />
+      <file href="html5/data/js/5tYSc0cQ8WA.js" />
+      <file href="html5/data/js/5ugB3VoAwIV.js" />
+      <file href="html5/data/js/5UqSvoeTe5x.js" />
+      <file href="html5/data/js/5v5ScJJimeY.js" />
+      <file href="html5/data/js/5VJVmtcCmTZ.js" />
+      <file href="html5/data/js/5XgHn5rD2Of.js" />
+      <file href="html5/data/js/5Xy9OvW5cHE.js" />
+      <file href="html5/data/js/5YRmNLk5b7G.js" />
+      <file href="html5/data/js/65NHR5U1rZQ.js" />
+      <file href="html5/data/js/66Q9mVOn1aX.js" />
+      <file href="html5/data/js/6AT3YcA7UKC.js" />
+      <file href="html5/data/js/6D6iLZxF0tv.js" />
+      <file href="html5/data/js/6dhUQ7dldga.js" />
+      <file href="html5/data/js/6FmdbTxGZVn.js" />
+      <file href="html5/data/js/6gqowzsV0To.js" />
+      <file href="html5/data/js/6h0LHlUw7YW.js" />
+      <file href="html5/data/js/6hNYXH9XnFd.js" />
+      <file href="html5/data/js/6iqpdW5hgXs.js" />
+      <file href="html5/data/js/6J95QYB8sFI.js" />
+      <file href="html5/data/js/6n4ISMlwbM4.js" />
+      <file href="html5/data/js/6OinUr6n6lR.js" />
+      <file href="html5/data/js/6rj6fH1287t.js" />
+      <file href="html5/data/js/6YHK7SFvj56.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
